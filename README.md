@@ -3,4 +3,6 @@
 - estado del proyacto en costrucción.
 
 Para ejecutar el sistema, debes poner:
-```npm install react``` 
+```npm install react```
+
+Sistema de registro 2
